@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String getVersion(){
-        return "Hello Btalk V1.0";
+        return "Hello Btalk V2.0";
     }
 }
