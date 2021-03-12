@@ -1,13 +1,13 @@
-package com.springboot.hellobeantk.beantk;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BeantkApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BeantkApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }
